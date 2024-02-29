@@ -1,2 +1,2 @@
 # split
-Reverse Split web scraper and information grabber
+Reverse Split web scraper
